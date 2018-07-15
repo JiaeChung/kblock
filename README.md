@@ -113,7 +113,7 @@ DApp에서의 트랜잭션은 중앙화된 네트워크보다 더 많은 시간�
 이번에는 블록체인에서의 UX가 이전 Web 2.0시대와 어떤 차별점을 가지는지, 그리고 어떠한 점을 고려해야 하는지 전반적으로 살펴보았습니다. 사실 DApp의 UX를 설계할 때 고려해야 하는 요소는 위에 언급한 것보다 무수히 많으며(무수히 많은 고려요소를 보고 싶으시다면 (https://medium.com/@lyricalpolymath/web3-design-principles-f21db2f240c1)을 참조), 위에서는 개념적인 내용에 대해 다루었을 뿐 실제로 서비스의 workflow에 따라 어떠한 고려요소가 있는지 살펴보지 않았습니다.
 
 ![workflowex](https://user-images.githubusercontent.com/36020880/42732400-e77478ee-885b-11e8-9e63-3733ec0e013e.png)
-\[workflow example  |  출처: PrimaBlock Hackernoon]
+\[future blockchain workflow example  |  출처: PrimaBlock Hackernoon]
 <br>
 <br>
 
