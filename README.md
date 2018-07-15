@@ -112,9 +112,15 @@ DApp에서의 트랜잭션은 중앙화된 네트워크보다 더 많은 시간�
 ## Conclusion
 이번에는 블록체인에서의 UX가 이전 Web 2.0시대와 어떤 차별점을 가지는지, 그리고 어떠한 점을 고려해야 하는지 전반적으로 살펴보았습니다. 사실 DApp의 UX를 설계할 때 고려해야 하는 요소는 위에 언급한 것보다 무수히 많으며, 위에서는 개념적인 내용에 대해 다루었을 뿐 실제로 서비스의 workflow에 따라 어떠한 고려요소가 있는지 살펴보지 않았습니다. 
 
-![workflowex](https://user-images.githubusercontent.com/36020880/42732379-7dda0c00-885b-11e8-818c-303698335c97.png)
-\[Coinbase]
+![workflowex](https://user-images.githubusercontent.com/36020880/42732400-e77478ee-885b-11e8-9e63-3733ec0e013e.png)
+\[workflow example  |  출처: PrimaBlock Hackernoon]
+<br>
+<br>
+
+또한, UX는 지갑과 같은 유틸리티 서비스, 환전 서비스, 토큰 매커니즘, 거버넌스 등 블록체인이 사용되는 분야에 맞춰 다른 방식으로 설계되어야 합니다. 어떤 서비스에 따라 어떤 요소를 Key value로 내세울 것인지, 불필요한 요소는 무엇인지, 어떻게 신뢰를 구성할지 등을 고려해야 합니다. 앞으로 저는 다양한 블록체인 서비스, 혹은 프로젝트를 공부하고 어떻게 사용자 경험이 설계될 수 있는지 분석해보겠습니다. UX분야는 다른 분야보다 많이 논의되지 않고 있기에, 혹시 좋은 자료나 흥미로운 프로젝트를 아신다면 댓글 남겨주시면 좋을 것 같습니다. 감사합니다.
 
 
-또한, UX는 지갑과 같은 유틸리티 서비스, 환전 서비스, 토큰 매커니즘, 거버넌스 등 블록체인이 사용되는 분야에 맞춰 다른 방식으로 설계되어야 합니다.
 
+## Reference
+
+- 코드박스 컨퍼런스 : Blockchain games and GoCryptobot: lessons learned(https://docs.google.com/presentation/d/17mHkxlywJu3mmlKi0k_3-HfGSfwwi1qP6qXYoTePPV4/edit#slide=id.g3a37f239d0_0_56)
