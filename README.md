@@ -7,4 +7,3 @@
 
 > UX(user experience)는 경제적 유인보다 훨씬 더 중요하다.
 
-![코드체인 커넥트 제2회 코드박스 블록체인 컨퍼런스 : “Blockchain games and GoCryptobot: lessons learned](https://picasaweb.google.com/103633189285718016879/6578340659900657505#6578340665373232786 "codebox")
