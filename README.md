@@ -9,10 +9,20 @@
 
 
 ![codebox](https://user-images.githubusercontent.com/36020880/42731612-a4de9f24-884b-11e8-9eda-0c5041c1198c.png)
-\[코드체인 커넥트 제2회 코드박스 블록체인 컨퍼런스 : “Blockchain games and GoCryptobot: lessons learned]
+\[코드체인 커넥트 제2회 코드박스 블록체인 컨퍼런스 : “Blockchain games and GoCryptobot: lessons learned"]
 <br>
 <br>
 
 > UX(user experience)는 경제적 유인보다 훨씬 더 중요하다.
 
 결국, 블록체인이라도 프로덕트를 잘 만들어야 토큰 이코노미나 거버넌스 같은 체제가 작동할 수 있습니다. 블록체인이 미들맨(Middle man)을 없애고 탈중앙화된 보상체계를 이룰 수 있다는 측면에서 많은 플랫폼이 나왔지만, 정작 플랫폼이 정거장처럼 덩그러니 있을뿐, 가치 있는 컨텐츠는 없는 경우가 많습니다. 컨텐츠가 없다면, 일반 사용자에게까지 닿을 수 없습니다. 비록 많은 사람들이 작년 하반기 비트코인의 가격 폭등으로 블록체인을 접했으나, 비개발자인 일반 사람들은 블록체인의 작동 원리를 명확히 파악하지 못하며, 블록체인의 가장 큰 강점인 **탈중앙화**에 대해 공감하지 않는 경우도 많습니다. 아무리 새로운 기술을 사용한 서비스를 내세워도 사용자가 불편함을 느낀다면, **결국 그것이 사용자에게 효용(ex. 경제적 이익)을 준다 할지라도 버려지기 마련입니다.** 지금까지 나왔던 수많은 블록체인 프로젝트들이 그랬듯이 말입니다.
+
+블록체인 서비스가 일상에서 쓰이기 위해서는 결국 **사용자가 사용할 수 있을만한** 수준이 되어야 하며, 그 과정에서 UX는 고려해야 할 필수요소입니다. 그러나 아직까지는 블록체인 기술의 미성숙으로 인해 UX에 대한 논의는 거의 이루어지지 않은 실정입니다. 그러므로 여기에서는, Web 3.0시대의 대표적인 기술로 불리우는 블록체인 UX가 Web 2.0의 UX와 다르게 어떤 점을 고려해야 하는지를 중점으로, UX설계에 대한 기본적인 내용을 다룰 예정입니다.
+<br>
+<br>
+
+## 블록체인에서의 UX
+
+> "*Just because blockchain technology is built to eliminate the reliance on trust doesn't mean users will trust the machine or network. (Jonny Howle, UX/UI Designer)*"
+
+오늘날 블록체인 서비스(이하 DApp)은 스마트 컨트랙트를 토대로 인터랙션이 이루어집니다. 비록, 
